@@ -66,7 +66,7 @@ var q3 = {
 
 var q4 = {
 	question : "4) What was the name of Angela's sick cat that Dwight killed?",
-	possibleAnswers : ['Angel Tail',
+	possibleAnswers : ['A. Angel Tail',
 				 'B. Sprinkles',
 				 'C. Mr.Longwhiskers',
 				 'D. Princess Puss'],
